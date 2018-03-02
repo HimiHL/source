@@ -1,0 +1,6 @@
+requests==2.11.1
+colorama==0.3.7
+docopt==0.6.2
+beautifulsoup4
+re
+json
